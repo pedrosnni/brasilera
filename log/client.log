@@ -1,0 +1,1529 @@
+[ 2022-04-27 03:13:09,382 ] Asset loading complete
+[ 2022-12-09 15:50:13,259 ] Asset loading complete
+[ 2022-12-09 15:50:18,511 ] News query failed: "Unrecognized event news."
+[ 2022-12-09 15:50:19,808 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-09 15:50:19,808 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-12-09 15:50:19,808 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-12-09 15:50:20,543 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 15:50:20,551 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 15:50:20,561 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 15:50:21,571 ] News query failed: "Unrecognized event news."
+[ 2022-12-09 15:52:26,637 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 15:52:26,637 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 15:52:26,638 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 15:55:16,233 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 15:55:16,233 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 15:55:16,233 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 16:12:17,828 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:12:17,883 ] Disconnected from gameserver
+[ 2022-12-09 16:14:02,094 ] News query failed: "Unrecognized event news."
+[ 2022-12-09 16:14:03,496 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 16:14:03,502 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:14:03,514 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:14:04,304 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:19:14,678 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:19:14,729 ] Disconnected from gameserver
+[ 2022-12-09 16:19:44,414 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:19:45,285 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 16:19:45,290 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:19:45,300 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:19:46,237 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:21:15,344 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 16:21:15,345 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 16:21:15,348 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 16:23:27,931 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:23:27,978 ] Disconnected from gameserver
+[ 2022-12-09 16:23:28,028 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:23:40,010 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:23:41,113 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-09 16:23:41,118 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:23:41,130 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:23:42,082 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:25:55,284 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:25:55,331 ] Disconnected from gameserver
+[ 2022-12-09 16:25:55,385 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:25:59,283 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:26:01,187 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Detonador" )
+[ 2022-12-09 16:26:01,188 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:26:01,202 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:26:02,108 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:27:06,735 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:27:06,778 ] Disconnected from gameserver
+[ 2022-12-09 16:27:06,830 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:28:12,098 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:28:13,472 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
+[ 2022-12-09 16:28:13,475 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:28:13,487 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:28:14,422 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:28:25,593 ] Asset loading complete
+[ 2022-12-09 16:28:36,617 ] News query failed: "Unrecognized event news."
+[ 2022-12-09 16:28:38,688 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-09 16:28:38,688 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-12-09 16:28:38,689 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-12-09 16:28:38,772 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-09 16:28:38,779 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:28:38,790 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:28:39,778 ] News query failed: "Unrecognized event news."
+[ 2022-12-09 16:35:23,931 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:35:23,979 ] Disconnected from gameserver
+[ 2022-12-09 16:35:24,040 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:35:25,530 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2022-12-09 16:35:25,533 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:35:25,552 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:35:26,489 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:35:54,186 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:35:54,232 ] Disconnected from gameserver
+[ 2022-12-09 16:35:54,279 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:35:55,544 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
+[ 2022-12-09 16:35:55,547 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:35:55,561 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:35:56,460 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:36:47,023 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:36:47,071 ] Disconnected from gameserver
+[ 2022-12-09 16:36:47,124 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:36:48,367 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sorcerer Sample" )
+[ 2022-12-09 16:36:48,370 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:36:48,382 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:36:49,331 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:10,773 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:37:10,817 ] Disconnected from gameserver
+[ 2022-12-09 16:37:10,865 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:11,800 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Rook Sample" )
+[ 2022-12-09 16:37:11,803 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:11,816 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:12,763 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:15,673 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:37:15,716 ] Disconnected from gameserver
+[ 2022-12-09 16:37:15,763 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:16,561 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
+[ 2022-12-09 16:37:16,564 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:16,574 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:17,496 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:18,181 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:37:18,228 ] Disconnected from gameserver
+[ 2022-12-09 16:37:18,277 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:19,152 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
+[ 2022-12-09 16:37:19,155 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:19,166 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:20,088 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:23,785 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:37:23,830 ] Disconnected from gameserver
+[ 2022-12-09 16:37:23,876 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:24,622 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
+[ 2022-12-09 16:37:24,625 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:24,638 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:25,541 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:33,085 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:37:33,133 ] Disconnected from gameserver
+[ 2022-12-09 16:37:33,189 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:55,647 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:37:55,700 ] Disconnected from gameserver
+[ 2022-12-09 16:37:56,014 ] News query failed: "Unrecognized event news."
+[ 2022-12-09 16:37:57,673 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:37:59,404 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 16:37:59,407 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:37:59,417 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:38:00,348 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:42:16,931 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:42:30,612 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:44:48,883 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 16:44:48,883 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 16:44:48,883 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 16:50:20,984 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 16:50:21,042 ] Disconnected from gameserver
+[ 2022-12-09 16:50:31,267 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:50:38,407 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 16:50:38,412 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:50:39,313 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:50:42,541 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 16:50:43,543 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:50:47,642 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 16:50:47,648 ] Disconnected from gameserver
+[ 2022-12-09 16:50:48,940 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 16:50:48,942 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:50:49,900 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:50:49,966 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:54:34,907 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 16:54:34,907 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 16:54:34,923 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 16:55:05,760 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:55:07,453 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 16:55:07,455 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:55:07,473 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 16:55:08,375 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 16:58:48,143 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 16:58:48,164 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 16:58:48,164 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 17:06:45,840 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 17:06:45,840 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 17:06:45,841 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 17:20:18,144 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:20:18,178 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:20:18,238 ] Disconnected from gameserver
+[ 2022-12-09 17:20:18,249 ] Disconnected from gameserver
+[ 2022-12-09 17:22:18,318 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:22:18,721 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:22:18,725 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:22:18,736 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:22:19,654 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:22:20,792 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:22:21,225 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:22:21,230 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:22:21,242 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:22:22,097 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:06,940 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:28:06,976 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:28:06,999 ] Disconnected from gameserver
+[ 2022-12-09 17:28:07,034 ] Disconnected from gameserver
+[ 2022-12-09 17:28:08,395 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:12,676 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:13,385 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:28:13,388 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:14,347 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:14,781 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:28:14,786 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:15,703 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:17,492 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:18,496 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:18,881 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:19,886 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:22,594 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:22,599 ] Disconnected from gameserver
+[ 2022-12-09 17:28:23,914 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:28:23,917 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:23,982 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:23,998 ] Disconnected from gameserver
+[ 2022-12-09 17:28:24,888 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:25,309 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:28:25,310 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:26,256 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:27,996 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:29,033 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:29,386 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:30,438 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:33,081 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:33,086 ] Disconnected from gameserver
+[ 2022-12-09 17:28:34,354 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:28:34,356 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:34,537 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:34,543 ] Disconnected from gameserver
+[ 2022-12-09 17:28:35,308 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:35,852 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:28:35,856 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:36,778 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:28:38,484 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:39,488 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:39,922 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:28:40,926 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:42,982 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:28:43,049 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:30:15,791 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:30:15,825 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:30:15,852 ] Disconnected from gameserver
+[ 2022-12-09 17:30:15,890 ] Disconnected from gameserver
+[ 2022-12-09 17:31:29,250 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:31:30,001 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:31:30,006 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:30,972 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:31:31,926 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:31:32,782 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:31:32,784 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:33,731 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:31:34,083 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:31:35,086 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:36,892 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:31:37,896 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:39,184 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:31:39,208 ] Disconnected from gameserver
+[ 2022-12-09 17:31:40,918 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:31:40,921 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:41,895 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:31:41,995 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:31:42,027 ] Disconnected from gameserver
+[ 2022-12-09 17:31:43,357 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:31:43,360 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:44,320 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:31:45,021 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:31:46,025 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:47,446 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:31:48,050 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:48,485 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:31:48,500 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:33:10,789 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:33:10,849 ] Disconnected from gameserver
+[ 2022-12-09 17:33:11,810 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:33:12,758 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:33:12,764 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:33:12,774 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:33:13,684 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:33:15,590 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:33:15,638 ] Disconnected from gameserver
+[ 2022-12-09 17:33:17,045 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:33:17,799 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:33:17,800 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:33:17,816 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:33:18,767 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:34:18,945 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:34:18,994 ] Disconnected from gameserver
+[ 2022-12-09 17:34:19,731 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:34:20,453 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:34:20,456 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:34:20,467 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:34:21,404 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:36:58,439 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:36:58,473 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:36:58,493 ] Disconnected from gameserver
+[ 2022-12-09 17:36:58,544 ] Disconnected from gameserver
+[ 2022-12-09 17:37:05,598 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:06,358 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:37:06,362 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:07,337 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:08,525 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:09,332 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:37:09,336 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:10,298 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:10,481 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:11,484 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:13,442 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:14,445 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:15,583 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:15,587 ] Disconnected from gameserver
+[ 2022-12-09 17:37:16,986 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:37:17,037 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:17,924 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:18,543 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:18,549 ] Disconnected from gameserver
+[ 2022-12-09 17:37:20,083 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:37:20,086 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:21,018 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:21,136 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:22,176 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:24,181 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:25,184 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:26,237 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:26,243 ] Disconnected from gameserver
+[ 2022-12-09 17:37:27,560 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:37:27,563 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:28,511 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:29,281 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:29,285 ] Disconnected from gameserver
+[ 2022-12-09 17:37:30,545 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:37:30,547 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:31,522 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:31,673 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:32,676 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:34,635 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:35,636 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:36,774 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:36,784 ] Disconnected from gameserver
+[ 2022-12-09 17:37:38,066 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:37:38,069 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:39,017 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:39,735 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:39,744 ] Disconnected from gameserver
+[ 2022-12-09 17:37:40,974 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:37:40,976 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:41,942 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:37:42,126 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:37:43,029 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:43,129 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:43,146 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:37:53,733 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073782911 found"
+[ 2022-12-09 17:45:19,883 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:45:19,934 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:45:19,947 ] Disconnected from gameserver
+[ 2022-12-09 17:45:19,996 ] Disconnected from gameserver
+[ 2022-12-09 17:46:14,284 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:46:14,665 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:46:14,666 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:46:14,682 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:46:15,596 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:46:16,132 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:46:16,534 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:46:16,535 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:46:16,550 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:46:17,452 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:56:48,184 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:56:48,185 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:56:48,248 ] Disconnected from gameserver
+[ 2022-12-09 17:56:48,248 ] Disconnected from gameserver
+[ 2022-12-09 17:56:59,859 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:00,717 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:57:00,720 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:01,671 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:02,401 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:03,347 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:57:03,351 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:04,323 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:04,826 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:57:05,835 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:07,437 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:57:08,441 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:09,929 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:57:09,937 ] Disconnected from gameserver
+[ 2022-12-09 17:57:11,277 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 17:57:11,282 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:12,220 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:12,587 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:57:12,596 ] Disconnected from gameserver
+[ 2022-12-09 17:57:13,843 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:57:13,845 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:14,811 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:15,380 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 17:57:16,383 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:17,421 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:21,341 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 17:57:21,341 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 17:57:21,341 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 17:57:29,246 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 17:57:29,293 ] Disconnected from gameserver
+[ 2022-12-09 17:57:29,334 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:50,824 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:53,028 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 17:57:53,032 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:53,047 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 17:57:53,983 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 17:57:54,625 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 17:57:54,625 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 17:57:54,625 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:00:49,672 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 18:00:49,672 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 18:00:49,673 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:06:38,277 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 18:06:38,292 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 18:06:38,342 ] Disconnected from gameserver
+[ 2022-12-09 18:06:38,356 ] Disconnected from gameserver
+[ 2022-12-09 18:06:44,815 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:06:45,739 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 18:06:45,745 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:06:46,704 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:06:47,056 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:06:47,783 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 18:06:47,789 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:06:48,732 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:06:49,848 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:06:50,885 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:06:51,874 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:06:52,877 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:06:54,985 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:06:54,995 ] Disconnected from gameserver
+[ 2022-12-09 18:06:56,321 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 18:06:56,324 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:06:56,975 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:06:56,980 ] Disconnected from gameserver
+[ 2022-12-09 18:06:57,260 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:06:58,292 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 18:06:58,292 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:06:59,250 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:07:00,436 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:07:01,440 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:07:02,378 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:07:03,381 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:07:05,589 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:07:05,598 ] Disconnected from gameserver
+[ 2022-12-09 18:07:06,824 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 18:07:06,826 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:07:07,477 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:07:07,481 ] Disconnected from gameserver
+[ 2022-12-09 18:07:07,796 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:07:07,845 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:07:08,813 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 18:07:08,815 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:07:08,832 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:07:09,785 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:07:11,351 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 18:07:11,352 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 18:07:11,352 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:08:06,384 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 18:08:06,384 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:08:06,384 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 18:09:31,661 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 18:09:31,661 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 18:09:31,661 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:13:52,085 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 18:13:52,133 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 18:13:52,154 ] Disconnected from gameserver
+[ 2022-12-09 18:13:52,196 ] Disconnected from gameserver
+[ 2022-12-09 18:14:06,583 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:14:07,585 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 18:14:07,590 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:14:08,539 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:14:09,193 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:14:09,940 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 18:14:09,946 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:14:10,898 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:14:11,683 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:14:12,688 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:14:14,043 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:14:15,046 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:14:16,788 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:14:16,795 ] Disconnected from gameserver
+[ 2022-12-09 18:14:18,159 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-09 18:14:18,163 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:14:19,076 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:14:19,143 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-09 18:14:19,147 ] Disconnected from gameserver
+[ 2022-12-09 18:14:20,468 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 18:14:20,471 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:14:21,435 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:14:21,502 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:14:21,736 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:14:27,257 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 18:14:27,257 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:14:27,257 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 18:15:03,987 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 18:15:04,033 ] Disconnected from gameserver
+[ 2022-12-09 18:15:04,079 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:15:20,226 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:15:21,818 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 18:15:21,821 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:15:21,834 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:15:22,785 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:15:37,469 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793761 found"
+[ 2022-12-09 18:15:45,903 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 18:15:45,903 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:15:45,904 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 18:20:25,830 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 18:20:25,830 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:20:25,831 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 18:26:45,632 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 18:26:45,683 ] Disconnected from gameserver
+[ 2022-12-09 18:26:45,731 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:26:57,156 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:26:58,802 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-09 18:26:58,844 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:26:58,854 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-09 18:26:59,764 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-09 18:27:00,480 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-09 18:27:00,481 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-09 18:27:00,485 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-09 18:35:34,941 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 18:35:34,975 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-09 18:35:35,000 ] Disconnected from gameserver
+[ 2022-12-09 18:35:35,043 ] Disconnected from gameserver
+[ 2022-12-11 14:38:46,938 ] Asset loading complete
+[ 2022-12-11 14:39:06,603 ] News query failed: "Unrecognized event news."
+[ 2022-12-11 14:39:09,510 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-11 14:39:09,510 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-12-11 14:39:09,510 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-12-11 14:39:09,598 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 14:39:09,605 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 14:39:09,615 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 14:39:10,602 ] News query failed: "Unrecognized event news."
+[ 2022-12-11 14:39:11,783 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 14:39:11,783 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 14:39:11,783 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 14:40:40,083 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 14:40:40,083 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 14:40:40,083 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 14:40:46,439 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 14:40:46,440 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 14:40:46,440 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 14:41:05,656 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 14:41:05,707 ] Disconnected from gameserver
+[ 2022-12-11 14:41:06,023 ] News query failed: "Unrecognized event news."
+[ 2022-12-11 14:41:06,323 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 14:41:06,329 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 14:41:06,341 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 14:41:07,261 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 14:53:47,366 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 14:53:47,430 ] Disconnected from gameserver
+[ 2022-12-11 14:59:08,097 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 14:59:09,263 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 14:59:09,272 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 14:59:10,167 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 14:59:13,361 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 14:59:14,365 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 14:59:18,474 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 14:59:19,410 ] Disconnected from gameserver
+[ 2022-12-11 14:59:20,804 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 14:59:20,810 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 14:59:21,757 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 14:59:24,867 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:01:12,921 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:01:12,932 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:01:12,932 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:01:32,385 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:01:32,385 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:01:32,385 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:03:30,615 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:03:30,680 ] Disconnected from gameserver
+[ 2022-12-11 15:04:09,355 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:04:10,388 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:04:10,397 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:04:10,411 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:04:11,308 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:04:12,142 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:04:12,162 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:04:12,162 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:05:15,366 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:05:15,418 ] Disconnected from gameserver
+[ 2022-12-11 15:05:15,473 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:06:07,467 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:06:08,834 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:06:08,840 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:06:08,851 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:06:09,775 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:08:11,254 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:08:11,318 ] Disconnected from gameserver
+[ 2022-12-11 15:08:29,283 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:08:30,179 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:08:30,186 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:08:31,105 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:08:34,265 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 15:08:35,301 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:08:38,362 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:10:16,909 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:10:16,965 ] Disconnected from gameserver
+[ 2022-12-11 15:10:17,028 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:10:27,966 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:10:27,967 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:10:27,981 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:10:28,902 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:18:30,259 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:18:30,315 ] Disconnected from gameserver
+[ 2022-12-11 15:19:05,235 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:19:06,214 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:19:06,221 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:19:06,234 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:19:07,121 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:19:07,794 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:19:07,807 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:19:07,807 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:19:31,809 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:19:31,862 ] Disconnected from gameserver
+[ 2022-12-11 15:19:31,914 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:19:44,339 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:19:44,340 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:19:44,354 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:19:45,288 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:19:46,009 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:19:46,009 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:19:46,009 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:19:54,153 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:19:54,200 ] Disconnected from gameserver
+[ 2022-12-11 15:19:54,251 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:25:17,818 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:25:19,296 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:25:19,297 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:25:19,312 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:25:20,234 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:25:22,126 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:25:22,126 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:25:22,140 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:26:35,715 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:26:35,781 ] Disconnected from gameserver
+[ 2022-12-11 15:26:50,466 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:26:51,101 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:26:51,104 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:26:52,057 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:26:55,167 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 15:26:56,205 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:27:00,303 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 15:27:00,309 ] Disconnected from gameserver
+[ 2022-12-11 15:27:01,623 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:27:01,629 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:27:02,546 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:27:05,757 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 15:27:06,761 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:27:09,326 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:29:47,906 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:29:47,967 ] Disconnected from gameserver
+[ 2022-12-11 15:30:14,858 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:30:16,058 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:30:16,064 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:30:16,077 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:30:17,009 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:30:22,059 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:30:22,110 ] Disconnected from gameserver
+[ 2022-12-11 15:30:22,164 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:30:24,083 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:30:24,086 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:30:24,101 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:30:25,021 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:30:39,353 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:30:39,401 ] Disconnected from gameserver
+[ 2022-12-11 15:30:39,454 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:30:40,567 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 15:30:40,570 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:30:40,592 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:30:41,480 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:31:20,664 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:31:20,715 ] Disconnected from gameserver
+[ 2022-12-11 15:31:20,775 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:31:21,928 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:31:21,931 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:31:21,943 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:31:22,891 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:33:22,259 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:33:22,309 ] Disconnected from gameserver
+[ 2022-12-11 15:33:22,360 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:33:23,626 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:33:23,630 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:33:23,649 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:33:24,584 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:33:24,853 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:33:24,910 ] Disconnected from gameserver
+[ 2022-12-11 15:33:52,435 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:33:53,050 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:33:53,054 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:33:53,066 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:33:54,005 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:34:22,876 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:34:22,876 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:34:22,890 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:36:13,413 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:36:13,475 ] Disconnected from gameserver
+[ 2022-12-11 15:36:33,734 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:36:34,513 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:36:34,520 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:36:35,456 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:36:37,548 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:36:39,125 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:36:39,136 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:36:39,136 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:39:19,116 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:39:19,186 ] Disconnected from gameserver
+[ 2022-12-11 15:39:39,399 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:39:40,563 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:39:40,570 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:39:41,509 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:39:44,704 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 15:39:45,707 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:39:45,723 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:39:47,752 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:39:47,752 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:39:47,752 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:40:25,606 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:40:25,615 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:40:25,615 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:41:43,602 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 15:41:43,606 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:41:43,606 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:47:14,952 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:47:15,020 ] Disconnected from gameserver
+[ 2022-12-11 15:47:31,010 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:47:32,393 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:47:32,395 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:47:33,319 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:47:36,513 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 15:47:37,514 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:47:41,078 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:49:56,857 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 15:49:56,925 ] Disconnected from gameserver
+[ 2022-12-11 15:50:08,243 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:50:08,926 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:50:08,929 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:50:09,884 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:50:13,011 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 15:50:14,014 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:50:18,113 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-11 15:50:18,124 ] Disconnected from gameserver
+[ 2022-12-11 15:50:19,415 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 15:50:19,418 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:50:20,353 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 15:50:20,438 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 15:50:22,178 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 15:50:22,178 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 15:50:22,178 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 16:00:49,763 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 16:00:49,835 ] Disconnected from gameserver
+[ 2022-12-11 16:00:49,915 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 16:01:00,844 ] Asset loading complete
+[ 2022-12-11 16:01:34,214 ] News query failed: "Unrecognized event news."
+[ 2022-12-11 16:01:36,295 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-11 16:01:36,296 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-12-11 16:01:36,296 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-12-11 16:01:36,382 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-11 16:01:36,389 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 16:01:36,400 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 16:01:37,331 ] News query failed: "Unrecognized event news."
+[ 2022-12-11 16:01:43,046 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 16:01:43,097 ] Disconnected from gameserver
+[ 2022-12-11 16:01:43,384 ] News query failed: "Unrecognized event news."
+[ 2022-12-11 16:01:44,113 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-11 16:01:44,115 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 16:01:44,127 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-11 16:01:45,073 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-11 16:05:32,015 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-11 16:05:32,015 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-11 16:05:32,015 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-11 16:07:55,695 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-11 16:07:55,762 ] Disconnected from gameserver
+[ 2022-12-11 16:07:55,846 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:21:40,065 ] Asset loading complete
+[ 2022-12-12 07:21:50,721 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-12 07:21:50,721 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-12-12 07:21:50,722 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-12-12 07:21:50,828 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:21:50,833 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:21:50,834 ] News query failed: "Unrecognized event news."
+[ 2022-12-12 07:21:51,341 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:21:51,889 ] News query failed: "Unrecognized event news."
+[ 2022-12-12 07:22:34,057 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:22:34,107 ] Disconnected from gameserver
+[ 2022-12-12 07:22:34,380 ] News query failed: "Unrecognized event news."
+[ 2022-12-12 07:22:35,449 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:22:35,452 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:22:35,464 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:22:36,415 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:22:44,107 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:22:44,156 ] Disconnected from gameserver
+[ 2022-12-12 07:22:44,198 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:22:53,598 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:22:53,607 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:22:53,618 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:22:54,552 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:22:58,867 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 07:22:58,867 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 07:22:58,867 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 07:27:39,807 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:27:39,862 ] Disconnected from gameserver
+[ 2022-12-12 07:28:13,926 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:28:14,667 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:28:14,670 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:28:14,680 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:28:15,603 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:28:17,076 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 07:28:17,078 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 07:28:17,081 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 07:28:19,339 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 07:28:19,340 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 07:28:19,340 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 07:30:11,758 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:30:11,814 ] Disconnected from gameserver
+[ 2022-12-12 07:30:39,443 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:30:40,155 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:30:40,159 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:30:41,099 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:30:41,682 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:30:42,830 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 07:30:42,833 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 07:30:42,835 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 07:30:49,807 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:30:49,854 ] Disconnected from gameserver
+[ 2022-12-12 07:30:49,917 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:30:50,311 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:30:50,314 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:30:50,325 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:30:51,244 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:31:46,257 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:31:46,305 ] Disconnected from gameserver
+[ 2022-12-12 07:31:46,369 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:31:51,884 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:31:51,887 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:31:51,899 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:31:52,827 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:32:07,923 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 07:32:07,923 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 07:32:07,926 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 07:35:54,348 ] Asset loading complete
+[ 2022-12-12 07:36:00,061 ] News query failed: "Unrecognized event news."
+[ 2022-12-12 07:36:01,493 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-12 07:36:01,493 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-12-12 07:36:01,493 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-12-12 07:36:01,581 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 07:36:01,588 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:36:01,599 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:36:02,536 ] News query failed: "Unrecognized event news."
+[ 2022-12-12 07:39:05,658 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:39:05,703 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:39:05,716 ] Disconnected from gameserver
+[ 2022-12-12 07:39:05,788 ] Disconnected from gameserver
+[ 2022-12-12 07:39:51,716 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:39:52,406 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:39:52,411 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:39:52,422 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:39:53,335 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:42:37,460 ] News query failed: "Unrecognized event news."
+[ 2022-12-12 07:42:38,147 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 07:42:38,151 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:42:38,162 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:42:39,052 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:46:41,102 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:46:41,107 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:46:41,168 ] Disconnected from gameserver
+[ 2022-12-12 07:46:41,191 ] Disconnected from gameserver
+[ 2022-12-12 07:46:54,784 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:46:55,786 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:46:55,790 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:46:56,711 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:46:59,907 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:47:00,907 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:47:01,058 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:47:02,065 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 07:47:02,071 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:47:02,916 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:47:05,008 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:47:05,024 ] Disconnected from gameserver
+[ 2022-12-12 07:47:06,152 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:47:06,251 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:47:06,255 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:47:07,180 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:47:07,201 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:47:10,358 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:47:11,252 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:47:11,264 ] Disconnected from gameserver
+[ 2022-12-12 07:47:11,407 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:47:12,464 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 07:47:12,466 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:47:12,932 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:47:12,981 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:47:13,415 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:47:26,568 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435466 found"
+[ 2022-12-12 07:51:20,807 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:51:20,851 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:51:20,868 ] Disconnected from gameserver
+[ 2022-12-12 07:51:20,908 ] Disconnected from gameserver
+[ 2022-12-12 07:51:37,869 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:51:38,527 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:51:38,529 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:39,477 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:51:40,887 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:51:41,799 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 07:51:41,802 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:42,607 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:51:42,740 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:51:43,607 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:45,901 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:51:46,901 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:47,708 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:51:47,714 ] Disconnected from gameserver
+[ 2022-12-12 07:51:48,929 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:51:48,931 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:49,869 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:51:51,001 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:51:51,005 ] Disconnected from gameserver
+[ 2022-12-12 07:51:52,241 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 07:51:52,245 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:53,007 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:51:53,173 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:51:54,007 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:56,352 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:51:57,352 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:58,107 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:51:58,111 ] Disconnected from gameserver
+[ 2022-12-12 07:51:59,287 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:51:59,289 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:59,385 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:51:59,797 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:52:00,241 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:54:11,707 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:54:11,752 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 07:54:11,800 ] Disconnected from gameserver
+[ 2022-12-12 07:54:11,812 ] Disconnected from gameserver
+[ 2022-12-12 07:54:28,014 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:54:30,600 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 07:54:30,605 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:54:31,546 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:54:32,172 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:54:32,999 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 07:54:33,002 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:54:33,882 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 07:54:34,707 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:54:35,707 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:54:37,101 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 07:54:38,101 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:54:39,122 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 07:54:39,264 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:00:54,907 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:00:54,952 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:00:54,986 ] Disconnected from gameserver
+[ 2022-12-12 08:00:55,048 ] Disconnected from gameserver
+[ 2022-12-12 08:01:16,305 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:01:17,016 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:01:17,020 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:01:17,959 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:01:19,307 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:01:20,236 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:01:20,241 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:01:21,107 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:01:21,119 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:01:22,107 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:01:24,352 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:01:25,352 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:01:26,207 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:01:26,219 ] Disconnected from gameserver
+[ 2022-12-12 08:01:27,393 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:01:27,395 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:01:28,347 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:01:29,408 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:01:29,423 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:01:40,679 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 08:01:40,679 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 08:01:40,679 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 08:07:52,908 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:07:52,951 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:07:52,973 ] Disconnected from gameserver
+[ 2022-12-12 08:07:53,010 ] Disconnected from gameserver
+[ 2022-12-12 08:08:09,272 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:08:09,973 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:08:09,976 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:10,916 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:08:12,380 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:08:13,309 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:08:13,312 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:14,057 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:08:14,234 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:08:15,057 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:17,401 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:08:18,401 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:19,158 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:08:19,187 ] Disconnected from gameserver
+[ 2022-12-12 08:08:20,631 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:08:20,636 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:21,555 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:08:22,501 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:08:22,513 ] Disconnected from gameserver
+[ 2022-12-12 08:08:23,741 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:08:23,746 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:24,651 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:08:24,707 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:08:25,707 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:26,721 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:26,799 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:08:35,528 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 08:08:35,528 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 08:08:35,528 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 08:14:20,757 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:14:20,801 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:14:20,824 ] Disconnected from gameserver
+[ 2022-12-12 08:14:20,866 ] Disconnected from gameserver
+[ 2022-12-12 08:14:48,839 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:14:49,220 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:14:49,225 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:14:50,142 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:14:50,747 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:14:52,130 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:14:52,574 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:14:52,576 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:14:52,588 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:14:53,478 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:16:13,807 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:16:13,852 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:16:13,869 ] Disconnected from gameserver
+[ 2022-12-12 08:16:13,910 ] Disconnected from gameserver
+[ 2022-12-12 08:18:27,787 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:18:28,250 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:18:28,255 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:18:28,266 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:18:29,165 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:18:30,898 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:18:31,306 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:18:31,310 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:18:31,321 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:18:32,240 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:20:28,257 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:20:28,301 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:20:28,319 ] Disconnected from gameserver
+[ 2022-12-12 08:20:28,359 ] Disconnected from gameserver
+[ 2022-12-12 08:21:08,860 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:21:09,190 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:21:09,194 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:21:09,206 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:21:10,132 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:21:10,610 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:21:12,363 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:21:12,365 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:21:12,378 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:21:13,309 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:23:34,057 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:23:34,102 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:23:34,145 ] Disconnected from gameserver
+[ 2022-12-12 08:23:34,155 ] Disconnected from gameserver
+[ 2022-12-12 08:23:48,746 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:23:50,119 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:23:50,121 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:23:51,054 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:23:51,940 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:23:52,662 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:23:52,666 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:23:53,603 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:23:54,207 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:23:55,207 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:23:56,752 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:23:57,801 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:23:59,308 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:23:59,319 ] Disconnected from gameserver
+[ 2022-12-12 08:24:00,540 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:24:00,544 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:24:01,478 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:24:01,902 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:24:01,911 ] Disconnected from gameserver
+[ 2022-12-12 08:24:03,128 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:24:03,130 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:24:04,054 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:24:04,102 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:24:04,147 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:28:33,801 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:28:33,807 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:28:33,862 ] Disconnected from gameserver
+[ 2022-12-12 08:28:33,874 ] Disconnected from gameserver
+[ 2022-12-12 08:29:32,975 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:29:33,510 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:29:33,513 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:29:33,523 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:29:34,430 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:29:38,110 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:29:38,360 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:29:38,364 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:29:38,376 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:29:39,296 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:29:45,149 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 08:29:45,149 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 08:29:45,150 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 08:34:39,509 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:34:39,551 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:34:39,572 ] Disconnected from gameserver
+[ 2022-12-12 08:34:39,611 ] Disconnected from gameserver
+[ 2022-12-12 08:34:47,499 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:34:48,273 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:34:48,276 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:34:49,211 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:34:49,755 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:34:50,474 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:34:50,477 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:34:51,405 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:34:52,358 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:34:53,407 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:34:54,602 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:34:55,651 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:34:57,457 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:34:57,465 ] Disconnected from gameserver
+[ 2022-12-12 08:34:58,675 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:34:58,677 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:34:59,620 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:34:59,752 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:34:59,812 ] Disconnected from gameserver
+[ 2022-12-12 08:35:01,018 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:35:01,020 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:35:01,961 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:35:02,757 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:35:03,757 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:35:05,102 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 08:35:05,784 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:35:06,102 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:35:06,112 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:35:16,582 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793883 found"
+[ 2022-12-12 08:35:16,583 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073793883 found"
+[ 2022-12-12 08:36:08,007 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 08:36:08,012 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 08:36:08,017 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 08:36:10,100 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 08:36:10,101 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 08:36:10,101 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 08:36:11,900 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 08:36:11,900 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 08:36:11,900 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 08:37:39,621 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:37:39,715 ] Disconnected from gameserver
+[ 2022-12-12 08:37:39,850 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:37:41,687 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:37:41,690 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:37:41,700 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:37:42,637 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:38:03,807 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:38:03,856 ] Disconnected from gameserver
+[ 2022-12-12 08:38:03,931 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:38:04,268 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:38:04,270 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:38:04,281 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:38:05,218 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:38:35,457 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 08:38:35,457 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 08:38:35,459 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 08:44:27,252 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:44:27,258 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:44:27,314 ] Disconnected from gameserver
+[ 2022-12-12 08:44:27,317 ] Disconnected from gameserver
+[ 2022-12-12 08:45:07,526 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:45:08,386 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:45:08,392 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:45:08,404 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:45:09,320 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:45:11,667 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:45:12,327 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 08:45:12,330 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:45:12,341 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:45:13,257 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:45:49,202 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:45:49,253 ] Disconnected from gameserver
+[ 2022-12-12 08:45:49,318 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:45:51,071 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 08:45:51,073 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:45:51,085 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:45:52,035 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:46:25,252 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 08:46:25,299 ] Disconnected from gameserver
+[ 2022-12-12 08:46:25,342 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:46:26,702 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 08:46:29,056 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 08:46:29,060 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:46:29,071 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 08:46:30,006 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 09:04:56,301 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 09:04:56,356 ] Disconnected from gameserver
+[ 2022-12-12 09:09:49,558 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 09:09:49,615 ] Disconnected from gameserver
+[ 2022-12-12 10:35:59,869 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:36:00,707 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 10:36:00,709 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:36:00,725 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:36:01,662 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:36:02,291 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:36:03,112 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 10:36:03,114 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:36:03,125 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:36:04,068 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:36:06,657 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 10:36:06,710 ] Disconnected from gameserver
+[ 2022-12-12 10:36:06,755 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:36:08,466 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-12 10:36:08,467 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:36:08,479 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:36:09,413 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:38:45,509 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 10:38:45,566 ] Disconnected from gameserver
+[ 2022-12-12 10:38:45,572 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 10:38:45,629 ] Disconnected from gameserver
+[ 2022-12-12 10:44:10,782 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:44:11,554 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 10:44:11,558 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:44:11,580 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:44:12,506 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:44:13,281 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:44:14,224 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Sinistrao" )
+[ 2022-12-12 10:44:14,227 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:44:14,253 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:44:15,103 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:44:15,571 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 10:44:15,621 ] Disconnected from gameserver
+[ 2022-12-12 10:44:15,669 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:44:17,061 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 10:44:17,063 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:44:17,088 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:44:18,009 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:45:02,051 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 10:45:02,057 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 10:45:02,107 ] Disconnected from gameserver
+[ 2022-12-12 10:45:02,120 ] Disconnected from gameserver
+[ 2022-12-12 10:46:01,433 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:46:01,729 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 10:46:01,734 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:46:01,746 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:46:02,666 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:46:03,818 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:46:04,085 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 10:46:04,086 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:46:04,099 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:46:04,977 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:46:46,256 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 10:46:46,307 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 10:46:46,356 ] Disconnected from gameserver
+[ 2022-12-12 10:46:46,412 ] Disconnected from gameserver
+[ 2022-12-12 10:46:58,440 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:46:59,111 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 10:46:59,116 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:00,038 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:47:00,976 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:47:01,632 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 10:47:01,635 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:02,564 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:47:03,207 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 10:47:04,207 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:05,702 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 10:47:06,752 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:08,257 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 10:47:08,269 ] Disconnected from gameserver
+[ 2022-12-12 10:47:09,562 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 10:47:09,566 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:10,495 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:47:10,852 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 10:47:10,862 ] Disconnected from gameserver
+[ 2022-12-12 10:47:12,046 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 10:47:12,051 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:12,991 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 10:47:13,657 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 10:47:14,658 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:16,151 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 10:47:17,152 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:18,708 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 10:47:18,712 ] Disconnected from gameserver
+[ 2022-12-12 10:47:19,900 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 10:47:19,902 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:20,413 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:20,696 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 10:47:20,852 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:04:15,151 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:04:15,207 ] Disconnected from gameserver
+[ 2022-12-12 11:04:15,292 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:04:17,022 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 11:04:17,026 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:04:17,037 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:04:17,965 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:06:02,157 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:06:02,202 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:06:02,236 ] Disconnected from gameserver
+[ 2022-12-12 11:06:02,266 ] Disconnected from gameserver
+[ 2022-12-12 11:06:14,759 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:06:15,523 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 11:06:15,527 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:16,463 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:06:18,281 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:06:18,668 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 11:06:18,671 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:19,601 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:06:19,601 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:06:20,601 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:22,758 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:06:23,807 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:24,701 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:06:24,719 ] Disconnected from gameserver
+[ 2022-12-12 11:06:25,934 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 11:06:25,937 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:26,845 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:06:27,907 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:06:27,916 ] Disconnected from gameserver
+[ 2022-12-12 11:06:29,119 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 11:06:29,125 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:30,001 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:06:30,057 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:06:31,001 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:33,208 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:06:34,257 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:34,553 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:06:34,760 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:12:23,757 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:12:23,801 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:12:23,823 ] Disconnected from gameserver
+[ 2022-12-12 11:12:23,858 ] Disconnected from gameserver
+[ 2022-12-12 11:13:10,894 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:13:11,994 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 11:13:11,998 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:12,864 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:13:14,364 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:13:16,101 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:13:16,115 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Pedrinho" )
+[ 2022-12-12 11:13:16,125 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:16,944 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:13:17,102 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:20,207 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:13:21,201 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 11:13:21,207 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:21,222 ] Disconnected from gameserver
+[ 2022-12-12 11:13:22,403 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 11:13:22,405 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:23,359 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:13:23,423 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:23,740 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:42,151 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:13:42,200 ] Disconnected from gameserver
+[ 2022-12-12 11:13:42,271 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:13:44,192 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 11:13:44,193 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:44,206 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:13:45,137 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:16:22,099 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 11:16:22,105 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 11:16:22,110 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 11:18:17,352 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:18:17,403 ] Disconnected from gameserver
+[ 2022-12-12 11:18:17,452 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:18:17,818 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 11:18:17,819 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:18:17,830 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:18:18,770 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:18:20,201 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:18:20,249 ] Disconnected from gameserver
+[ 2022-12-12 11:18:20,292 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:18:20,573 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Tester Pevepe" )
+[ 2022-12-12 11:18:20,575 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:18:20,587 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:18:21,526 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:20:20,651 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:20:20,700 ] Disconnected from gameserver
+[ 2022-12-12 11:20:20,747 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:20:21,904 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 11:20:21,906 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:20:21,917 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:20:22,866 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:36:19,118 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:36:19,227 ] Disconnected from gameserver
+[ 2022-12-12 11:37:11,501 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:37:11,577 ] Disconnected from gameserver
+[ 2022-12-12 11:40:13,519 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:40:13,862 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 11:40:13,866 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:40:13,886 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 11:40:14,798 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:40:46,472 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 11:49:57,028 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 11:49:57,028 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 11:49:57,033 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 11:59:29,602 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 11:59:29,697 ] Disconnected from gameserver
+[ 2022-12-12 12:13:27,860 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:13:30,366 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:13:30,380 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:13:31,157 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:13:34,501 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:13:35,501 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:13:39,564 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:13:39,584 ] Disconnected from gameserver
+[ 2022-12-12 12:13:40,788 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:13:40,790 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:13:41,732 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:13:42,822 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:18:47,451 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 12:18:47,515 ] Disconnected from gameserver
+[ 2022-12-12 12:19:08,312 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:19:08,656 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:19:08,662 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:19:09,581 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:19:12,751 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:19:13,751 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:19:14,759 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:22:11,854 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 12:22:11,932 ] Disconnected from gameserver
+[ 2022-12-12 12:25:25,975 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:25:26,666 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:25:26,669 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:25:27,530 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:25:30,217 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:27:18,552 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 12:27:18,634 ] Disconnected from gameserver
+[ 2022-12-12 12:33:09,551 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:33:09,993 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:33:10,002 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:33:10,015 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:33:10,901 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:34:15,278 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 12:34:15,278 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 12:34:15,278 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 12:35:05,721 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 12:35:05,722 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 12:35:05,723 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 12:37:43,101 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 12:37:43,174 ] Disconnected from gameserver
+[ 2022-12-12 12:38:23,984 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:38:24,412 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:38:24,421 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:38:25,319 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:38:28,501 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:38:29,501 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:38:33,601 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:38:33,623 ] Disconnected from gameserver
+[ 2022-12-12 12:38:35,277 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:38:35,280 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:38:36,181 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:38:39,331 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:51:36,603 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 12:51:36,700 ] Disconnected from gameserver
+[ 2022-12-12 12:52:17,951 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:52:20,620 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:52:20,629 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:52:21,414 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:52:24,701 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:52:25,701 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:52:25,712 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:53:18,201 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 12:53:18,263 ] Disconnected from gameserver
+[ 2022-12-12 12:58:31,033 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:58:31,781 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:58:31,786 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:58:32,712 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:58:35,851 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:58:36,851 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:58:40,952 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:58:41,026 ] Disconnected from gameserver
+[ 2022-12-12 12:58:42,197 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 12:58:42,200 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:58:43,134 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 12:58:46,302 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 12:58:47,302 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:58:47,312 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 12:59:37,351 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 12:59:37,412 ] Disconnected from gameserver
+[ 2022-12-12 13:00:03,316 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:00:03,729 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:00:03,734 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:00:04,239 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:00:04,662 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:01:22,101 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 13:01:22,167 ] Disconnected from gameserver
+[ 2022-12-12 13:02:12,257 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:02:12,617 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:02:12,619 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:02:12,633 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:02:13,554 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:07:20,020 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 13:07:20,020 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 13:07:20,020 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 13:10:17,116 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 13:10:17,116 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 13:10:17,118 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
+[ 2022-12-12 13:14:45,253 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 13:14:45,324 ] Disconnected from gameserver
+[ 2022-12-12 13:16:14,034 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:16:14,356 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:16:14,363 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:16:14,374 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:16:15,261 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:16:28,051 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 13:16:28,119 ] Disconnected from gameserver
+[ 2022-12-12 13:16:32,934 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:16:34,008 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:16:34,012 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:16:34,946 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:16:38,101 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:16:39,102 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:16:43,203 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:16:43,213 ] Disconnected from gameserver
+[ 2022-12-12 13:16:44,480 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:16:44,482 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:16:45,378 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:16:48,552 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:16:49,602 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:16:51,632 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:19:06,902 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 13:19:06,960 ] Disconnected from gameserver
+[ 2022-12-12 13:19:32,714 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:19:33,074 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:19:33,078 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:19:33,089 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:19:33,973 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:19:47,402 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 13:19:47,464 ] Disconnected from gameserver
+[ 2022-12-12 13:19:55,473 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:19:55,749 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:19:55,749 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:19:56,695 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:19:59,851 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:20:00,851 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:20:04,951 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:20:04,957 ] Disconnected from gameserver
+[ 2022-12-12 13:20:06,161 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:20:06,167 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:20:07,087 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:20:10,252 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:20:11,301 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:20:11,312 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:25:10,604 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-12 13:25:10,668 ] Disconnected from gameserver
+[ 2022-12-12 13:25:24,299 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:25:24,637 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:25:24,641 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:25:25,589 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:25:28,710 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:25:29,702 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:25:33,801 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:25:33,806 ] Disconnected from gameserver
+[ 2022-12-12 13:25:35,064 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-12-12 13:25:35,066 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:25:35,993 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://127.0.0.1/login.php") ) due to too many retries.
+[ 2022-12-12 13:25:39,151 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
+[ 2022-12-12 13:25:40,152 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:25:41,672 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
+[ 2022-12-12 13:28:55,977 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_podiumofrenown.png - server replied: Not Found
+[ 2022-12-12 13:28:55,977 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_riftwatcher.png - server replied: Not Found
+[ 2022-12-12 13:28:55,979 ] qrc:/qml/StoreMainPage.qml:76:9: QML Image: Error transferring http://127.0.0.1/images/store//home/banner_runemaster.png - server replied: Not Found
